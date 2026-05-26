@@ -2,7 +2,7 @@
   "enabled": true,
   "versionCode": 2,
   "versionName": "0.2",
-  "apkUrl": "https://github.com/mac-donal/apk/releases/download/tvplus2/TV.BOX.PLUS-2.19.5.2026.apk",
-  "message": "✅ Recomendamos actualizar.",
-  "mandatory": false
+  "apkUrl": "https://github.com/mac-donal/apk/releases/download/tvplus2/tvplus2-2026.apk",
+  "mandatory": false,
+  "message": "✅ Zapping nuevamente habilitado y optimizado\n✅ Se corrigió la sección de adultos\n✅ Mejor estabilidad y rendimiento general\n✅ Corrección de errores reportados por usuarios\n\n👉 Recomendamos actualizar a la última versión para disfrutar de todas las mejoras.\n\nGracias por seguir confiando en TV Plus 2 🙌🔥"
 }
