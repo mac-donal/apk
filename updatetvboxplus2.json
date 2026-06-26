@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "versionCode": 2,
-  "versionName": "0.2",
+  "versionCode": 3,
+  "versionName": "0.3",
   "apkUrl": "https://github.com/mac-donal/apk/releases/download/tvplus2/TV.BOX.PLUS-2.19.5.2026.apk",
   "mandatory": false,
   "message": "✅ Mejoras generales de estabilidad y optimización del sistema."
