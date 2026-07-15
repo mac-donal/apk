@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "versionCode": 2,
-  "versionName": "0.1",
+  "versionName": "9.9",
   "apkUrl": "https://github.com/mac-donal/apk/releases/download/tvplus2/DIGITAL_PLAY.apk",
   "mandatory": false,
   "message": "✅ Mejoras generales de estabilidad y optimización del sistema."
